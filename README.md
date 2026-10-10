@@ -1,4 +1,5 @@
-# pstat126
-Analyzed 2022 diamond prices dataset, visualized the influence of mass, color, and purity on diamond price, used R to develop the best-fitting predictive model.
-- Applied techniques such as data transformation, Akaike Information Criterion (AIC), and Variance Inflation Factor (VIF) to enhance model accuracy.
+# Diamond Price Modeling in R
 
+This project examines how carat weight, color, and clarity relate to diamond prices using a 2022 diamond price dataset.
+
+The analysis uses regression models, variable transformations, AIC-based model selection, and VIF diagnostics to assess multicollinearity.
